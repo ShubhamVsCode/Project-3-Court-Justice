@@ -1,11 +1,10 @@
-# Project 2 - HTML ![](./readmeImages/html-5.png) and CSS ![](./readmeImages/css-3.png)
+# Project 3 - HTML ![](./readmeImages/html-5.png) and CSS ![](./readmeImages/css-3.png)
 
 By Shubham
 
 Here's the Live Deployed Website ![Project 3](https://img.shields.io/badge/Project-3-brightgreen)
 
-[Link to the Project 3](https://courtjustice.netlify.app/)
-https://courtjustice.netlify.app/
+[DEPLOYED WEBSITE LINK](https://courtjustice.netlify.app/)
 
 ![Completed Website](./readmeImages/completedScreenshot.jpg)
 
