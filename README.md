@@ -4,7 +4,7 @@ By Shubham
 
 Here's the Live Deployed Website ![Project 3](https://img.shields.io/badge/Project-3-brightgreen)
 
-[DEPLOYED WEBSITE LINK](https://courtjustice.netlify.app/)
+## [DEPLOYED WEBSITE LINK](https://courtjustice.netlify.app/)
 
 ![Completed Website](./readmeImages/completedScreenshot.jpg)
 
